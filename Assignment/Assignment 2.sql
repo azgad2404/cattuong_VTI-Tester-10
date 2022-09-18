@@ -98,7 +98,7 @@ INSERT INTO Answer(answer_id, content, question_id, isCorrect)
 VALUES            (1, 'JAVA is ...',         1,     TRUE), 
                   (2, '.NET is ...',         2,     FALSE), 
                   (3, 'SQL is ...' ,         3,     TRUE), 
-                  (4, 'RUBY is ...',         4,		FALSE),
+                  (4, 'RUBY is ...',         4,	    FALSE),
                   (5, 'Visual Basic is ...', 5,     TRUE),
                   (6, 'C++ is ...',          6,     TRUE),
                   (7,'Python is ...',        7,     FALSE),
